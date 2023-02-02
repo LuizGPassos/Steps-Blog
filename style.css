@@ -1,0 +1,74 @@
+body{
+margin: 0;
+padding: 0;
+background-color: black;
+
+
+}
+
+h1{
+
+
+font-family: 'Share Tech Mono', monospace;
+color: #28F328;
+
+
+}
+
+h1:hover{
+    background-color: #28F328; 
+    color: black;
+}
+
+.post{
+    text-decoration: none;
+    color: #28F328;
+    font-family: 'Share Tech Mono', monospace;
+    display: block;
+}
+.post:hover{
+    background-color: #28F328;
+    color: black;
+}
+
+header a {
+    text-decoration: none;
+    color: #28F328;
+    font-family: 'Share Tech Mono', monospace;
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 200px;
+
+}
+
+header a:hover{
+    background-color: #28F328;
+    color: black;
+
+}
+
+footer{
+    color: #28F328;
+    font-family: 'Share Tech Mono', monospace;
+    text-align: center;
+    margin-top: 30px;
+
+}
+body li {
+    color: #28F328;
+    font-family: 'Share Tech Mono', monospace;
+    display: block;
+
+}
+body li:hover{
+    background-color: #28F328;
+    color: black;
+}
+
+input{
+    border-color: #28F328;
+    background-color: black;
+}
+
+
+
